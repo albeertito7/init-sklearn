@@ -5,12 +5,9 @@ Repository with the aim of getting started with specific technologies for data s
 ## Notebooks
 
 Files based on jupyter notebooks where the learning of each of the technologies is deepened:
-
-<ol>
- <li><a href="https://numpy.org/" target="_blank">Numpy</a> -> library that provides support for creating large multidimensional vectors and matrices, along with a large collection of high-level mathematical functions to operate on them.</li>
- <li><a href="" target="_blank">Pandas</a> -> software library written as an extension to NumPy for data manipulation and analysis. In particular, it provides data structures and operations for manipulating numerical tables and time series.</li>
- <li><a href="" traget="_blank">Scikit-learn</a> -> machine learning library that includes various classification, regression and cluster analysis algorithms including support vector machines, random forests, Gradient boosting, K-means and DBSCAN. Toolkit including Numpy and Pandas.</li>
-</ol>
+- <a href="https://numpy.org/" target="_blank">Numpy</a> -> library that provides support for creating large multidimensional vectors and matrices, along with a large collection of high-level mathematical functions to operate on them.
+- <a href="" target="_blank">Pandas</a> -> software library written as an extension to NumPy for data manipulation and analysis. In particular, it provides data structures and operations for manipulating numerical tables and time series.
+- <a href="" traget="_blank">Scikit-learn</a> -> machine learning library that includes various classification, regression and cluster analysis algorithms including support vector machines, random forests, Gradient boosting, K-means and DBSCAN. Toolkit including Numpy and Pandas.
 
 
 ## Get started
