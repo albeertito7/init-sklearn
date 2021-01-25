@@ -18,4 +18,4 @@ Install "jupyter" running `pip install jupyter` or `conda install -c conda-forge
 
 ## Open the notebooks
 
-Just run `jupyter notebook {filename}`
+Just run `jupyter notebook {filename.ipynb}`
