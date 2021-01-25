@@ -12,7 +12,7 @@ Files based on jupyter notebooks where the learning of each of the technologies 
 
 ## Get started
 
-**You must have a version of python higher than 3.3**
+> **Note**: You must have a version of python higher than 3.3
 
 Install "jupyter" running `pip install jupyter` or `conda install -c conda-forge notebook` depending on what package manager do you prefer
 
